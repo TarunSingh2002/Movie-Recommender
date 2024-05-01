@@ -2,9 +2,9 @@ import streamlit as st
 import pickle
 import requests
 
-movies = pickle.load(open('../../Desktop/movies.pkl', 'rb'))
+movies = pickle.load(open('movies.pkl', 'rb'))
 movies_list = movies['title'].values
-similarity = pickle.load(open('../../Desktop/similarity.pkl', 'rb'))
+similarity = pickle.load(open('similarity.pkl', 'rb'))
 
 st.title('Movie Recommmender System')
 selected_movie_name = st.selectbox('Choose your movie',
