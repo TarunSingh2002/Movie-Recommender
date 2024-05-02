@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62fc191e-1482-4a99-9762-4f894935f05c" name="Changes" comment="commit 4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="62fc191e-1482-4a99-9762-4f894935f05c" name="Changes" comment="commit 5">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714600172329</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit 5">
+      <option name="closed" value="true" />
+      <created>1714633255949</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714633255949</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -107,6 +117,7 @@
     <MESSAGE value="commit 2" />
     <MESSAGE value="commit 3" />
     <MESSAGE value="commit 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 4" />
+    <MESSAGE value="commit 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 5" />
   </component>
 </project>
